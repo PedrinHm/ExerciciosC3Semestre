@@ -1,0 +1,2 @@
+Nome = pedro.
+Idade = 19.
